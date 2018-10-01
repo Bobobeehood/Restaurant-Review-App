@@ -19,12 +19,12 @@ We are provided with the code for a restaurant reviews website and are expected 
 In a terminal, check the version of Python you have: `python -V`. If you have Python 2.x, spin up the server with `python -m SimpleHTTPServer 8000` (or some other port, if port 8000 is already in use.) For Python 3.x, you can use `python3 -m http.server 8000`. If you don't have Python installed, navigate to Python's [website](https://www.python.org/) to download and install the software.
 
 ### For live experience
-Follow this [link.....] (https://bobobeehood.github.io/Restaurant-Review-App)
+Follow this [link.....](https://bobobeehood.github.io/Restaurant-Review-App)
 
 ### Acknowledgments
 I will like to acknowledge many developers and organisations whom which their resources online helped and guilded me through out this project and this Program/course (Front-end Nanodegree Wed Development) as a whole. 
 
 * google.com
-* [mattew Cranford] (https://matthewcranford.com/restaurant-reviews-app-walkthrough)
+* [mattew Cranford](https://matthewcranford.com/restaurant-reviews-app-walkthrough)
 * stackoverflow.com
-* [Sugahzor] (https://github.com/Sugahzor/udacity-restaurants-stage1)
+* [Sugahzor](https://github.com/Sugahzor/udacity-restaurants-stage1)
