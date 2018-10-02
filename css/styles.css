@@ -288,6 +288,57 @@ nav h1 a {
 }
 
 /*
+=================================================
+============REVIEW ITEM CUSTOMIZATION============
+=================================================
+*/
+
+#reviews-list li p {
+  margin: 0 0 12px;
+}
+
+#reviews-list li p:first-of-type {
+  font-size: 1.2em;
+  color: #fff;
+  border-radius: 15px 0 0 0;
+  box-shadow: -10px -10px #eee;
+}
+
+#reviews-list li p:first-of-type + p {
+  color: #eee;
+}
+
+#reviews-list li p:first-of-type,
+#reviews-list li p:first-of-type + p {
+  background-color: #333333;
+  border: 1px solid #333333;
+  margin: 0;
+  padding-left: 10px;
+}
+
+#reviews-list li p:nth-of-type(3n) {
+  margin-top: 10px;
+  padding: 5px 10px;
+  background-color: #ffa500;
+  color: #2b2b2b;
+  display: inline-block;
+  border-radius: 3px;
+  text-transform: uppercase;
+}
+
+#reviews-list li p:last-of-type {
+  width: 500px;
+  float: right;
+  padding: 10px 20px 0 0;
+  font-size: 1em;
+  line-height: 1.3em;
+}
+
+#restaurant-hours td {
+  color: #666;
+}
+
+/*
 =====================================================
 ===============Responsive implementation=============
 =====================================================
