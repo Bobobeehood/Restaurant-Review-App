@@ -1,4 +1,3 @@
-/* Credit: https://github.com/Sugahzor/udacity-restaurants-stage1*/
 document.addEventListener("DOMContentLoaded", event => {
   /**
    *     Service Worker registration
