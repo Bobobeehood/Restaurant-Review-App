@@ -143,11 +143,10 @@ nav h1 a {
   background-color: #f3f3f3;
   list-style: outside none none;
   margin: 0;
-  padding: 30px 15px 60px;
+  padding: 0;
   text-align: center;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-wrap: wrap;
 }
 #restaurants-list li {
   background-color: #fff;
@@ -157,7 +156,7 @@ nav h1 a {
   min-height: 380px;
   padding: 0 30px 25px;
   text-align: left;
-  max-width: 470px;
+  max-width: 350px;
   width: 80%;
 }
 #restaurants-list .restaurant-img {
@@ -253,7 +252,7 @@ nav h1 a {
   border-bottom: 1px solid #d9d9d9;
   border-top: 1px solid #fff;
   padding: 140px 40px 30px;
-  width: 50%;
+  width: 40%;
 }
 #reviews-container {
   padding: 30px 40px 80px;
